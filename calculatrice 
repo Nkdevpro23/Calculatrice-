@@ -1,0 +1,26 @@
+Documentation de ma calculatrice
+Présentation des langages de programmation utilisées
+
+Pour la réalisation de notre mini calculatrice nous avons utilisé le HTML, le CSS et le JAVASCRIPT.
+Notre mini calculateur permet d’effectuer des opérations arithmétiques telles que la division, la multiplication, la soustraction et l’addition.
+Utilisation du HTML
+
+Le html est un langage de balisage utilise dans programmation web oriente objet.
+Nous l’avons utilisée pour la réalisation de notre mini calculatrice « calculatrice pro ».
+En effet cette mini calculatrice numérique  est réalisé avec le html5, ainsi nous avons utilisé plusieurs balises tel que :
+Le <div>< /div> pour spécifier une partir ou plusieurs opérations auront lieux 
+La balise < button> qui permet de spécifier les différents boutons qui sont utilisée pour la calculatrice. Exemple : <button id= ‘bouton4’>4< /button>
+Voici un exemple apres l’execution du code html
+
+
+
+
+
+2- UTILISATION DU CSS
+
+Le css (cascading style sheet) permet d’embellir les pages web. Il procède de multiple fonctionnalité sur les nous avons utilisé quelque une pour la stylisation de notre mini calculatrice.
+Les couleurs (background-color, color…)
+Les bordures (width, height padding…)
+La taille (font-size…)
+EXEMPLE après l’exécution du CSS
+
